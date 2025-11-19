@@ -222,7 +222,7 @@ export function Simulator() {
             onClick={() => setCurrentStep('select-treatment')}
             className="gap-2 bg-gradient-to-r from-blue-600 to-purple-600 hover:from-blue-700 hover:to-purple-700 shadow-lg px-8 mt-8"
           >
-            Iniciar Nova Simulação
+            Nova Simulação
             <ArrowRight className="w-5 h-5" />
           </Button>
         </div>
